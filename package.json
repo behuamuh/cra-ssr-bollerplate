@@ -11,7 +11,10 @@
     "@types/webpack-env": "1.14.0",
     "escape-string-regexp": "^2.0.0",
     "express": "^4.17.1",
+    "graphql": "^14.5.6",
+    "ra-data-graphql": "^2.9.6",
     "react": "^16.9.0",
+    "react-admin": "^2.9.6",
     "react-dom": "^16.9.0",
     "react-ssr-scripts": "2.2.3",
     "typescript": "3.6.3"
